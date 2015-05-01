@@ -1,0 +1,4 @@
+C:\Users\utku\Documents\Visual Studio 2013\Projects\DXKinectRobot\SolidGeometry\bin\Debug\SolidGeometry.dll
+C:\Users\utku\Documents\Visual Studio 2013\Projects\DXKinectRobot\SolidGeometry\bin\Debug\SolidGeometry.pdb
+C:\Users\utku\Documents\Visual Studio 2013\Projects\DXKinectRobot\SolidGeometry\obj\Debug\SolidGeometry.dll
+C:\Users\utku\Documents\Visual Studio 2013\Projects\DXKinectRobot\SolidGeometry\obj\Debug\SolidGeometry.pdb
