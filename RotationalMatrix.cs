@@ -22,8 +22,7 @@ namespace SolidGeometry
         {
             RotationalMatrix matrix = GetCofactor();
             float determinant = GetDeterminant();
-            return new RotationalMatrix(matrix.Column1.ScalarMultiplyWith(determinant), matrix.Column2.ScalarMultiplyWith(determinant), matrix.Column3.ScalarMultiplyWith(determinant));
-            // Buraya Scalar sayı olarak Determinant hesaplanacak
+            return new RotationalMatrix(matrix.Column1.ScalarMultiplyWith(determinant), matrix.Column2.ScalarMultiplyWith(determinant), matrix.Column3.ScalarMultiplyWith(determinant));     
         }
         public RotationalMatrix TransposeMatrix()
         {
