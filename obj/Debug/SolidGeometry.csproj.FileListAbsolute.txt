@@ -8,3 +8,8 @@ C:\Users\utku\Documents\Visual Studio 2013\Projects\DXKinectRobot\SolidGeometry\
 C:\Users\utku\Documents\Visual Studio 2013\Projects\DXKinectRobot\SolidGeometry\obj\Debug\SolidGeometry.csprojResolveAssemblyReference.cache
 C:\Users\utku\Documents\Visual Studio 2013\Projects\DXKinectRobot\SolidGeometry\obj\Debug\UzayGeometrisi.dll
 C:\Users\utku\Documents\Visual Studio 2013\Projects\DXKinectRobot\SolidGeometry\obj\Debug\UzayGeometrisi.pdb
+C:\Users\utku\Desktop\Capstone 2\SolidGeometry\bin\Debug\SolidGeometry.dll
+C:\Users\utku\Desktop\Capstone 2\SolidGeometry\bin\Debug\SolidGeometry.pdb
+C:\Users\utku\Desktop\Capstone 2\SolidGeometry\obj\Debug\SolidGeometry.csprojResolveAssemblyReference.cache
+C:\Users\utku\Desktop\Capstone 2\SolidGeometry\obj\Debug\SolidGeometry.dll
+C:\Users\utku\Desktop\Capstone 2\SolidGeometry\obj\Debug\SolidGeometry.pdb
